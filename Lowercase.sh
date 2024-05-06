@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script that change all the filename of a folder where it is executed to 
+# Script that change all the filename in a folder where it is executed to 
 # First letter in Uppercase and the rest in lowercase
 # Usage / Ex :
 # "ARTIST - TITLE" to "Artist - Title"
